@@ -49,10 +49,10 @@ In this lesson you'll be creating a simple Express based API in node, just to ge
 * test command - `yarn test-routes` or `npm run test-routes`
 
 This exercise will have you creating routes and sub routers for our soon the be DB resources using Express routing and routers
-- [ ] create a router for the Item resource
-- [ ] create full crud routes and create placeholder controllers
-- [ ] mount router on the root server
-- [ ] ensure all tests pass by running test command
+- [x] create a router for the Item resource
+- [x] create full crud routes and create placeholder controllers
+- [x] mount router on the root server
+- [x] ensure all tests pass by running test command
 
 ### Create Schemas
 * branch - `lesson-3`
@@ -60,11 +60,11 @@ This exercise will have you creating routes and sub routers for our soon the be 
 
 In this exercise, you'll be taking what you learned about Mongoose and MongoDb to create a schema and model for the Item resource.
 
-- [ ] create a schema for the item resource
-- [ ] add the correct fields (look at test)
-- [ ] add the correct validations (look at test)
+- [x] create a schema for the item resource
+- [x] add the correct fields (look at test)
+- [x] add the correct validations (look at test)
 - [ ] *extra* add compund index to ensure all tasks in a list have unique names
-- [ ] ensure all tests pass by running test command
+- [x] ensure all tests pass by running test command
 
 ### Controllers
 * branch - `lesson-4`
